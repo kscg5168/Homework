@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	int two=2,three=3,sum;
-	sum=two+three;
-    printf ("%d+%d=%d",two,three,sum); 
+	sum=two+three; //calculate the value of two plus three
+    printf ("%d+%d=%d",two,three,sum);  //show two plus three formula
 	return 0;
 }
